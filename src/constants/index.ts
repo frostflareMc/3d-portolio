@@ -131,6 +131,17 @@ const experiences: TExperience[] = [
       
     ],
   },
+   {
+    title: "Pokemon Showdown Mod(Typescript)",
+    companyName: "Not a company(a client)",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: ":)",
+    points: [
+      "Developing a pokemon showdown mode for the client and creating a tutorial on how to add new pokemon",
+      
+    ],
+  },
  
   
 ];
