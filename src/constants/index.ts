@@ -142,6 +142,17 @@ const experiences: TExperience[] = [
       
     ],
   },
+     {
+    title: "Realtime School Chatapp",
+    companyName: "School levelling",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: ":)",
+    points: [
+      "Developing a realtime chatapp with DMs,global chat,school chat,class chat and section chat",
+      
+    ],
+  },
  
   
 ];
