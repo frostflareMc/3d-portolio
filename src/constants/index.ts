@@ -164,6 +164,17 @@ const experiences: TExperience[] = [
       
     ],
   },
+    {
+    title: "Portfolio",
+    companyName: "Not a company",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: ":)",
+    points: [
+      "Developing a portfolio website for a roblox scripter",
+      
+    ],
+  },
  
   
 ];
