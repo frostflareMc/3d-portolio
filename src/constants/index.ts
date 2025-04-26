@@ -253,7 +253,7 @@ const projects: TProject[] = [
       },
     ],
     image: carrent,
-    sourceCodeLink: "#",
+    sourceCodeLink: "https://github.com/frostflareMc/jarvis-bot-openai-voice-recog",
   },
   {
     name: "Roblox tycoon game",
@@ -321,7 +321,7 @@ const projects: TProject[] = [
   {
     name: "PSATLingo",
     description:
-      "I made a app using node.js,next.js a app(wep app) like duolingo but for the PSAT",
+      "I made a app using node.js,next.js a app(wep app) like duolingo but for the PSAT.just login nd course selection tho not the main thing",
     tags: [
       {
         name: "Next.js",
@@ -337,7 +337,7 @@ const projects: TProject[] = [
       },
     ],
     image: tripguide,
-    sourceCodeLink: "#",
+    sourceCodeLink: "https://github.com/frostflareMc/lingo",
   },
 ];
 
