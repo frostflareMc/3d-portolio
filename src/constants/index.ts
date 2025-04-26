@@ -204,14 +204,7 @@ const testimonials: TTestimonial[] = [
     company: "Trvme",
     image: "https://randomuser.me/api/portraits/men/47.jpg",
   },
-    {
-    testimonial:
-      "Our website turned out to be beautiful loved working with aksh.",
-    name: "Subhash C. Jha",
-    designation: "Founder",
-    company: "Trvme",
-    image: "https://randomuser.me/api/portraits/men/47.jpg",
-  },
+
       {
     testimonial:
       "I hired them to make a website for my game and they were very quick, were down to make any changes without any kind of frustration.. would recommend to hire them.",
