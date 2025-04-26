@@ -54,7 +54,7 @@ const services: TService[] = [
     icon: web,
   },
   {
-    title: "Next.js,node.js Developer",
+    title: "Discord bot dev",
     icon: mobile,
   },
   {
