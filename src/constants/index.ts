@@ -27,9 +27,7 @@ import {
   
   starbucks,
  
-  carrent,
-  jobit,
-  tripguide,
+
   bangalore,
   jarvis,
   lua,
