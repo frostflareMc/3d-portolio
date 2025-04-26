@@ -29,6 +29,12 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import psat from "./psat.png";
+import skripting from "./skripting.png";
+import smiley from "/smiley.png"
+import lua from "./lua.png"
+import jarvis from "./jarvis.png"
+import bangalore from "./bangalore.png"
 
 export {
   logo,
@@ -59,4 +65,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  psat,
+  smiley,
+  skripting,
+  lua,
+  jarvis,
+  bangalore,
 };
