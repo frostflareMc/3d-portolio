@@ -175,6 +175,18 @@ const experiences: TExperience[] = [
       
     ],
   },
+
+      {
+    title: "Discord marketplace posting+moderation bot",
+    companyName: "Not a company",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: ":)",
+    points: [
+      "Discord bot like in rodevs where you can post looking for devs and for hire",
+      
+    ],
+  },
  
   
 ];
