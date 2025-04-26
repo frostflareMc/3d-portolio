@@ -30,6 +30,12 @@ import {
   carrent,
   jobit,
   tripguide,
+  bangalore,
+  jarvis,
+  lua,
+  skripting,
+  smiley,
+  psat,
   threejs,
 } from "../assets";
 
@@ -227,7 +233,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: bangalore,
     sourceCodeLink: "https://bangaloreeventmanagement.in/",
   },
   {
@@ -252,7 +258,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: jarvis,
     sourceCodeLink: "https://github.com/frostflareMc/jarvis-bot-openai-voice-recog",
   },
   {
@@ -273,7 +279,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
+    image: lua,
     sourceCodeLink: "#",
   },
   {
@@ -294,7 +300,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: skripting,
     sourceCodeLink: "#",
   },
   {
@@ -315,7 +321,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: smiley,
     sourceCodeLink: "#",
   },
   {
@@ -336,7 +342,7 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: psat,
     sourceCodeLink: "https://github.com/frostflareMc/lingo",
   },
 ];
